@@ -59,13 +59,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dotenv@npm:^16.5.0":
-  version: 16.5.0
-  resolution: "dotenv@npm:16.5.0"
-  checksum: 10/e68a16834f1a41cc2dfb01563bc150668ad675e6cd09191211467b5c0806b6ecd6ec438e021aa8e01cd0e72d2b70ef4302bec7cc0fe15b6955f85230b62dc8a9
-  languageName: node
-  linkType: hard
-
 "ip-address@npm:^9.0.5":
   version: 9.0.5
   resolution: "ip-address@npm:9.0.5"
@@ -158,7 +151,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "mongoose_documents_repro@workspace:."
   dependencies:
-    dotenv: "npm:^16.5.0"
     mongoose: "npm:7.8.6"
   languageName: unknown
   linkType: soft
